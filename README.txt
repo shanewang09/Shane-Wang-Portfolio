@@ -14,7 +14,7 @@ CPU.circ
 Note that Logisim or iVerilog is required to view a circ file. 
 The CPU does not have pipelining. 
 
-Electronics Design: 
+SSD & IC Electronics Design: 
 MOSFET Astable Multivibrator.brd
 MOSFET Astable Multivibrator.jpg
 MOSFET Astable Multivibrator Image.png
